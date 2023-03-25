@@ -19,3 +19,5 @@ Snapshots From Different States of this app:
 <img width="960" alt="Screenshot 2023-03-25 145246" src="https://user-images.githubusercontent.com/75496668/227708937-3608a37f-bbb6-49f1-a055-1b9784c861a1.png">
 
 <img width="960" alt="Screenshot 2023-03-25 145313" src="https://user-images.githubusercontent.com/75496668/227708943-747d1bfb-1411-48f1-8d8c-304dd690bd42.png">
+
+Link for Deployed App: https://meetups-manager-next-js-mongo-db.vercel.app/
